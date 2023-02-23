@@ -10,34 +10,34 @@ public class Venom : MonoBehaviour
     Rigidbody2D rigidbody;
     CapsuleCollider2D bodyCollider;
     BoxCollider2D attackCollider;
-    public bool special_enable;
-    public bool standby;
-    public bool attack;
-    public bool punch;
-    public bool kick;
-    public bool hard_punch; // cost 100 energy
-    public bool uppercut; // cost 100 energy
-    public bool chomp; // cost 2500 energy
-    public bool whip;
-    public bool walk;
-    public bool facing_left;
-    public bool standing;
-    public bool crawling;
-    public string crawl_position; //NA, Left Wall, Right Wall, Floor, Ceiling
-    public float crawlAxisValue;
-    public bool aerial;
-    public bool standing_jump;
-    public bool run_jump;
-    public bool sprint_jump;
-    public bool landing;
-    public float speed;
-    public float previous_y;
-    public int energy;
-    public bool switchDirection;
-    public int switchDirectionTimer;
-    public int whipAnimationPhase;
-    public bool flip;
-    public float flipZ;
+    private bool special_enable;
+    private bool standby;
+    private bool attack;
+    private bool punch;
+    private bool kick;
+    private bool hard_punch; // cost 100 energy
+    private bool uppercut; // cost 100 energy
+    private bool chomp; // cost 2500 energy
+    private bool whip;
+    private bool walk;
+    private bool facing_left;
+    private bool standing;
+    private bool crawling;
+    private string crawl_position; //NA, Left Wall, Right Wall, Floor, Ceiling
+    private float crawlAxisValue;
+    private bool aerial;
+    private bool standing_jump;
+    private bool run_jump;
+    private bool sprint_jump;
+    private bool landing;
+    private float speed;
+    private float previous_y;
+    private int energy;
+    private bool switchDirection;
+    private int switchDirectionTimer;
+    private int whipAnimationPhase;
+    private bool flip;
+    private float flipZ;
 
     // Start is called before the first frame update
     void Start()
