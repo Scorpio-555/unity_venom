@@ -26,10 +26,9 @@ Watch [this video](https://cdnapisec.kaltura.com/index.php/extwidget/preview/par
 
 You will follow the same steps of downloading, extracting, and combining into a single file as shown in the tutorial video for the original version. Only this time use these files:
 
-* [UnityPlayer_after_changes.zip](https://github.com/Scorpio-555/unity_venom/blob/main/UnityPlayer_after_changes.zip)
-
 * [Venom_after_changes.zip](https://github.com/Scorpio-555/unity_venom/blob/main/Venom_after_changes.zip)
 
+* [UnityPlayer_after_changes.zip](https://github.com/Scorpio-555/unity_venom/blob/main/UnityPlayer_after_changes.zip)
 
 ## Game Controls
 
