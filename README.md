@@ -10,11 +10,28 @@ This is a personal project where I took the [Venom PNG](https://github.com/Scorp
 
 ## Updated Code
 
+[updated_code.cs](https://github.com/Scorpio-555/unity_venom/blob/main/updated_code.cs)
+
 ## How to Download and Play
 
+### Original Version
+
+Watch [this video](https://cdnapisec.kaltura.com/index.php/extwidget/preview/partner_id/1157612/uiconf_id/42438192/entry_id/1_mc4s44p9/embed/dynamic) tutorial on how to download and play. For conveniance, these are the links to the files to download:
+
+* [venom.zip](https://github.com/Scorpio-555/unity_venom/blob/main/venom.zip)
+
+* [UnityPlayer.zip](https://github.com/Scorpio-555/unity_venom/blob/main/UnityPlayer.zip)
+
+### Updated Version
+
+You will follow the same steps of downloading, extracting, and combining into a single file as shown in the tutorial video for the original version. Only this time use these files:
+
+* [UnityPlayer_after_changes.zip](https://github.com/Scorpio-555/unity_venom/blob/main/UnityPlayer_after_changes.zip)
+
+* [Venom_after_changes.zip](https://github.com/Scorpio-555/unity_venom/blob/main/Venom_after_changes.zip)
 
 
-Here are the controls:
+## Game Controls
 
 | Button | Function |
 | ------ | -------- |
